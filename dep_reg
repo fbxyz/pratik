@@ -1,3 +1,5 @@
+"""Dictionnaire des départements français et des nouvelles régions associées"""
+
 departements = {
     '01': 'Auvergne-Rhône-Alpes', 
     '02': 'Hauts-de-France', 
