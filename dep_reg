@@ -1,4 +1,4 @@
-"""Dictionnaire des départements français et des nouvelles régions associées"""
+#Dictionnaire des départements français et des nouvelles régions associées
 
 departements = {
     '01': 'Auvergne-Rhône-Alpes', 
