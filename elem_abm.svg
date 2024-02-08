@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg width="105.05mm" height="161.41mm" version="1.1" viewBox="0 0 105.05 161.41" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <linearGradient id="linearGradient10" x1="39.393" x2="167.87" y1="91.787" y2="91.787" gradientTransform="rotate(45 130.85 79.979)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#fff" stop-opacity="0" offset=".25956"/>
+   <stop stop-color="#fff" stop-opacity=".25433" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient11" x1="39.393" x2="167.87" y1="91.787" y2="91.787" gradientTransform="rotate(-45 144.27 108.98)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#fff" stop-opacity="0" offset=".25956"/>
+   <stop stop-color="#fff" stop-opacity=".24985" offset="1"/>
+  </linearGradient>
+ </defs>
+ <g transform="translate(-50.792 -16.617)" stroke-linecap="round" stroke-linejoin="round">
+  <path d="m68.607 17.436a24.036 24.036 0 0 0-10.775 6.2207 24.036 24.036 0 0 0 2e-6 33.992l56.852 56.852a24.036 24.036 0 0 0 33.992 0 24.036 24.036 0 0 0 0-33.992l-56.852-56.852a24.036 24.036 0 0 0-23.217-6.2207z" color="#000000" fill="url(#linearGradient10)" style="-inkscape-stroke:none;mix-blend-mode:normal"/>
+  <path d="m51.737 160.21a24.036 24.036 0 0 0 6.2207 10.775 24.036 24.036 0 0 0 33.992 0l56.852-56.852a24.036 24.036 0 0 0 0-33.992 24.036 24.036 0 0 0-33.992 0l-56.852 56.852a24.036 24.036 0 0 0-6.2207 23.217z" color="#000000" fill="url(#linearGradient11)" style="-inkscape-stroke:none"/>
+ </g>
+</svg>
